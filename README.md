@@ -9,9 +9,7 @@ Exercicios:
 
 Escreva um programa que abra os arquivos “CLIENTES.CAD” e “VENDAS.CAD” e construa o novo arquivo “COMPRAS.CAD” utilizando as informações dos dois primeiros arquivos para associar os clientes e suas compras. Ao final, imprima na tela as informações do novo arquivo.
 
-<div align="center">
-  ![image](https://user-images.githubusercontent.com/44234388/138288411-2638736c-184b-41a0-8036-5ff1143c56ec.png)
-</div>
+ ![image](https://user-images.githubusercontent.com/44234388/138288411-2638736c-184b-41a0-8036-5ff1143c56ec.png)
 
 3- O arquivo “CONCESSIONÁRIA.CAD” possui um cadastro de todos os veículos disponíveis para venda em uma determinada loja de carros. O proprietário da loja quer atualizar os preços dos veículos com base no ano de fabricação a partir da seguinte regra:
 
