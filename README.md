@@ -9,4 +9,23 @@ Exercicios:
 
 Escreva um programa que abra os arquivos “CLIENTES.CAD” e “VENDAS.CAD” e construa o novo arquivo “COMPRAS.CAD” utilizando as informações dos dois primeiros arquivos para associar os clientes e suas compras. Ao final, imprima na tela as informações do novo arquivo.
 
-                          ![image](https://user-images.githubusercontent.com/44234388/138287160-dd11cfc4-cf67-4259-a056-9fd9b2f4f2f3.png)
+![image](https://user-images.githubusercontent.com/44234388/138287160-dd11cfc4-cf67-4259-a056-9fd9b2f4f2f3.png)
+
+3- O arquivo “CONCESSIONÁRIA.CAD” possui um cadastro de todos os veículos disponíveis para venda em uma determinada loja de carros. O proprietário da loja quer atualizar os preços dos veículos com base no ano de fabricação a partir da seguinte regra:
+
+• Carros com menos de um ano de uso 10% de aumento; 
+• Carros com menos de três anos de uso e um ano ou mais 7% de aumento; 
+• Carros com menos de cinco anos de uso e três anos ou mais 5% de aumento;
+• Carros com mais de cinco anos de uso 2% de aumento. 
+
+Escreva um programa que leia este arquivo do disco rígido, atualize o valor do preço de venda do automóvel e salve novamente este arquivo no disco rígido com o nome “CONCESSIONÁRIA_NOVO.CAD”. Para a atualização dos preços deve ser construída uma função AtualizaPreco que receba como entrada o ano de fabricação do carro e seu preço e retorne o novo preço do carro. Durante o processo de atualização dos preços deve ser impressa na tela do computador um relatório com o modelo do carro, seu preço antigo e o novo preço depois da atualização.
+
+OBS.: 
+1) Usar como referência o ano de 2011 no cálculo da atualização dos preços; 
+2) Utilizar a função AtualizaPreco para calcular os novos os preços dos automóveis.
+
+![image](https://user-images.githubusercontent.com/44234388/138287493-8c533169-1f3a-4ff9-9f26-da139f2d405d.png)
+
+4- Dr. Zinho mantém atualizado no HD de seu computador um arquivo de cadastro de clientes denominado “ZINHO.CAD” e pretende que seja criado um outro arquivo, no mesmo HD com o nome “ZINHO.M50”, correspondente aos dados dos clientes de sexo masculino e que fazem 50 anos em 2011 (nascidos em 1961). Fazer um programa que leia o arquivo “ZINHO.CAD” e crie o arquivo “ZINHO.M50” conforme as estruturas de dados abaixo
+
+![image](https://user-images.githubusercontent.com/44234388/138287570-bc05e511-10cc-4361-be4c-03879cdc21bb.png)
