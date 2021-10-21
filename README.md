@@ -9,7 +9,7 @@ Exercicios:
 
 Escreva um programa que abra os arquivos “CLIENTES.CAD” e “VENDAS.CAD” e construa o novo arquivo “COMPRAS.CAD” utilizando as informações dos dois primeiros arquivos para associar os clientes e suas compras. Ao final, imprima na tela as informações do novo arquivo.
 
-<div style"center">
+<div align="center">
 ![image](https://user-images.githubusercontent.com/44234388/138287160-dd11cfc4-cf67-4259-a056-9fd9b2f4f2f3.png)
 </div>
 
