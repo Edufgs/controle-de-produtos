@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1544021853 source:d:\eduardo\programação linguagem c\codebloock\prova\exercicio 2, lista 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<string.h>
+
+1544124902 source:f:\provas\prova\exercicio 2, lista 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<unistd.h>
+	<string.h>
+
+1544124902 source:d:\eduardo\programação linguagem c\codebloock\prova pronta\exercicio 2, lista 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<unistd.h>
+	<string.h>
+
+1544124902 source:d:\eduardo\programação linguagem c\codebloock\prova pronta\lista 1, arquivos\exercicio 2, lista 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<unistd.h>
+	<string.h>
+
