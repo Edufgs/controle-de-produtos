@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1543440968 source:d:\eduardo\programação linguagem c\codebloock\prova\exer3 lista 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1543629102 source:d:\eduardo\programação linguagem c\codebloock\prova pronta\exer3 lista 1 pronto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<unistd.h>
+	<windows.h>
+
+1543629102 source:d:\eduardo\programação linguagem c\codebloock\prova pronta\lista 1, arquivos\exer3 lista 1 pronto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<unistd.h>
+	<windows.h>
+
