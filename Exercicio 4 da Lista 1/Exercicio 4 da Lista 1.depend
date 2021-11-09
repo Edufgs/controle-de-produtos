@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1543626038 source:d:\eduardo\programação linguagem c\codebloock\prova pronta\exercicio 4 da lista 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+
+1543626038 source:d:\eduardo\programação linguagem c\codebloock\prova pronta\lista 1, arquivos\exercicio 4 da lista 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+
